@@ -1,2 +1,7 @@
 theme: minima
 title: Sprig Docs
+
+header_pages:
+  - GETTING_STARTED.md
+  - ASSEMBLY.md
+  - UPLOAD.md
